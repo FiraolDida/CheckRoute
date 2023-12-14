@@ -1,0 +1,46 @@
+# General:
+
+# Gradle files and build artifacts:
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration files:
+local.properties
+
+# Logs:
+*.log
+
+# Version control:
+vcs.xml
+
+# MacOS:
+.DS_Store
+
+
+# Android Studio specific:
+
+# Generated files and folders:
+captures/
+.externalNativeBuild/
+.cxx/
+output.json
+
+# IntelliJ IDEA files:
+.iml
+.idea/
+.idea/caches
+.idea/modules.xml
+
+# Keystore files:
+*.jks
+*.keystore
+
+# Google Services:
+google-services.json
+
+# Android Profiling:
+*.hprof
